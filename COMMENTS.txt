@@ -1,0 +1,11 @@
+To run:  php slcsp.php
+
+NOTES:
+
+    - I wrote this in PHP since that is what I'm most comfortable with.
+        Other options I considered:
+            - python
+            - node / typescript
+            (I'd be happy to do it in either of these as well)
+
+    - The file names are hardcoded for simplicity and were left with their original names in case those were important.
